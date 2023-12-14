@@ -8,5 +8,6 @@
 7.Head Brain size predictor using Linear Regression
 8.Titanic Survival predictor using Logistic regression algorithm
 9.Diabetes detector using Linear Regression
+& Various Case Study Tasks
 
 
