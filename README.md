@@ -9,7 +9,6 @@
 8.Titanic Survival predictor using Logistic regression algorithm
 9.Diabetes detector using Linear Regression.
 
-
 & Various Case Study Tasks
 
 
